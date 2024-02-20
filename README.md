@@ -3,7 +3,7 @@ This repository contains supplementary materials for our paper about bus stop sp
 ## Appendices
 ### Agency Information Table
 | Agency                                                                                                      | City              | State | NTD ID | Onestop_id                                                       |
-|-------------------------------------------------------------------------------------------------------------|-------------------|-------|--------|------------------------------------------------------------------|
+|-------------------------------------------------------------------------------------------------------------|-------------------|-------|--------|------------------------|
 | Los Angeles County Metropolitan   Transportation Authority , dba: Metro                                     | Los Angeles       | CA    | 90154  | f-9q5-metro~losangeles                                           |
 | Chicago Transit Authority                                                                                   | Chicago           | IL    | 50066  | f-dp3-cta                                                        |
 | Southeastern Pennsylvania Transportation   Authority                                                        | Philadelphia      | PA    | 30019  | f-dr4-septa~bus                                                  |
