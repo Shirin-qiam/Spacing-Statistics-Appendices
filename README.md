@@ -3,12 +3,12 @@ This repository contains supplementary materials for our paper about bus stop sp
 ## Appendices
 ### Agency Information Table
 | Agency                                                                                                      | City              | State | NTD ID | Onestop_id                                                       |
-|-------------------------------------------------------------------------------------------------------------|-------------------|-------|--------|------------------------|
+|-------------------------------------------------------------------------------------------------------------|-------------------|-------|--------|------------------------------------------------------------------|
 | Los Angeles County Metropolitan   Transportation Authority , dba: Metro                                     | Los Angeles       | CA    | 90154  | f-9q5-metro~losangeles                                           |
 | Chicago Transit Authority                                                                                   | Chicago           | IL    | 50066  | f-dp3-cta                                                        |
 | Southeastern Pennsylvania Transportation   Authority                                                        | Philadelphia      | PA    | 30019  | f-dr4-septa~bus                                                  |
 | Washington Metropolitan Area Transit   Authority                                                            | Washington        | DC    | 30030  | f-dqc-wmata~bus                                                  |
-| City and County of San Francisco, dba:   San Francisco Municipal Transportation Agency                      | San Francisco     | CA    | 90015  | f-sf~bay~area~rg                                                 |
+| City and County of San Francisco, dba:   San Francisco Municipal Transportation Agency                      | San Francisco     | CA    | 90015  | f-9q8y-sfmta                                                     |
 | King County Department of Metro Transit,   dba: King County Metro                                           | Seattle           | WA    | 00001  | f-c23-metrokingcounty                                            |
 | Massachusetts Bay Transportation   Authority                                                                | Boston            | MA    | 10003  | f-drt-mbta                                                       |
 | Maryland Transit Administration                                                                             | Baltimore         | MD    | 30034  | f-dq-mtamaryland~bus                                             |
@@ -18,11 +18,11 @@ This repository contains supplementary materials for our paper about bus stop sp
 | Port Authority of Allegheny County                                                                          | Pittsburgh        | PA    | 30022  | f-dppn-portauthorityofalleghenycounty                            |
 | County of Miami-Dade , dba:   Transportation & Public Work                                                  | Miami             | FL    | 40034  | f-dhw-miamidadetransit                                           |
 | Metropolitan Transit Authority of Harris   County, Texas                                                    | Houston           | TX    | 60008  | f-9vk-metropolitantransitauthorityofharriscounty                 |
-| Alameda-Contra Costa Transit District                                                                       | Oakland           | CA    | 90014  | f-sf~bay~area~rg                                                 |
+| Alameda-Contra Costa Transit District                                                                       | Oakland           | CA    | 90014  | f-9q9-actransit                                                  |
 | Denver Regional Transportation District                                                                     | Denver            | CO    | 80006  | f-9xj-rtd                                                        |
 | VIA Metropolitan Transit                                                                                    | San Antonio       | TX    | 60011  | f-9v1z-viametropolitantransit                                    |
 | Dallas Area Rapid Transit                                                                                   | Dallas            | TX    | 60056  | f-9vg-dallasarearapidtransit                                     |
-| Santa Clara Valley Transportation   Authority                                                               | San Jose          | CA    | 90013  | f-sf~bay~area~rg                                                 |
+| Santa Clara Valley Transportation   Authority                                                               | San Jose          | CA    | 90013  | f-9q9-vta                                                        |
 | Broward County Board of County   Commissioners, dba: Broward County Transit Division                        | Plantation        | FL    | 40029  | f-dhw-browardcountytransit                                       |
 | Orange County Transportation Authority                                                                      | Orange            | CA    | 90036  | f-9mu-orangecountytransportationauthority                        |
 | Pace - Suburban Bus Division                                                                                | Arlington Heights | IL    | 50113  | f-dp3-pace                                                       |
@@ -66,7 +66,7 @@ This repository contains supplementary materials for our paper about bus stop sp
 | Board of County Commissioners, Palm Beach   County, dba: Palm Tran, Inc.                                    | West Palm Beach   | FL    | 40037  | f-dhx-palmtran                                                   |
 | Indianapolis and Marion County Public   Transportation                                                      | Indianapolis      | IN    | 50050  | f-dp4d-indygo                                                    |
 | Pierce County Transportation Benefit Area   Authority                                                       | Tacoma            | WA    | 00003  | f-c22-piercetransit~soundtransit                                 |
-| San Mateo County Transit District                                                                           | San Carlos        | CA    | 90009  | f-sf~bay~area~rg                                                 |
+| San Mateo County Transit District                                                                           | San Carlos        | CA    | 90009  | f-9q8-samtrans                                                   |
 | Suburban Mobility Authority for Regional   Transportation                                                   | Detroit           | MI    | 50031  | f-dps-smart                                                      |
 | Connecticut Department of Transportation   - CTTRANSIT New Haven Division                                   | Hartford          | CT    | 10055  | f-drk-cttransit~hartford                                         |
 | Greater Richmond Transit Company                                                                            | Richmond          | VA    | 30006  | f-grtc~va                                                        |
